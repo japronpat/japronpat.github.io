@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://japronpat.github.io/junaidpatel.github.io/
+> https://japronpat.github.io/
 
 ## Features 📋
 ⚡️ Fully Responsive\
