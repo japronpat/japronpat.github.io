@@ -506,6 +506,48 @@ section .container {
   background: #042b56eb;
 }
 
+.interests .skill-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 25px;
+  height: 100%;
+  background: #09203a;
+  transition: ease-in-out 0.3s;
+}
+
+.interests .skill-box:hover {
+  background: #042b56eb;
+}
+
+.interests .skill-box .skill-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.interests .skill-box .skill-header i {
+  font-size: 32px;
+  padding-right: 12px;
+  line-height: 1;
+}
+
+.interests .skill-box h3 {
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  line-height: 1.3;
+  font-size: 17px;
+  color: #fff;
+}
+
+.interests .skill-box p {
+  margin: 0;
+  color: #c9d6e3;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
